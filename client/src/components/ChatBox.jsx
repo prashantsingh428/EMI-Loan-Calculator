@@ -25,7 +25,7 @@ const ChatBox = ({ isChatOpen, setIsChatOpen }) => {
 
     // Trigger mock bot reply after 600ms
     setTimeout(() => {
-      let reply = "Thank you for your message! A home loan expert from Digital Heroes will get in touch with you shortly. You can also call us at +91 9289200017.";
+      let reply = "Thank you for your message! A home loan expert from Digital Heroes will get in touch with you shortly. You can also call us at +91 6387421XXX.";
       const cleanQuery = query.toLowerCase();
 
       if (cleanQuery.includes('rate') || cleanQuery.includes('interest')) {
@@ -50,8 +50,8 @@ const ChatBox = ({ isChatOpen, setIsChatOpen }) => {
 
   if (!isChatOpen) {
     return (
-      <button 
-        type="button" 
+      <button
+        type="button"
         className="chat-toggle-btn"
         onClick={() => setIsChatOpen(true)}
         aria-label="Open chat"
@@ -76,9 +76,9 @@ const ChatBox = ({ isChatOpen, setIsChatOpen }) => {
             <div className="agent-status">Online • Ready to help</div>
           </div>
         </div>
-        <button 
-          type="button" 
-          className="btn-chatbox-close" 
+        <button
+          type="button"
+          className="btn-chatbox-close"
           onClick={() => setIsChatOpen(false)}
           aria-label="Minimize chat"
         >
@@ -124,9 +124,9 @@ const ChatBox = ({ isChatOpen, setIsChatOpen }) => {
           onKeyDown={handleKeyPress}
           className="chatbox-input"
         />
-        <button 
-          type="button" 
-          className="btn-chatbox-send" 
+        <button
+          type="button"
+          className="btn-chatbox-send"
           onClick={() => handleSend()}
           aria-label="Send message"
         >

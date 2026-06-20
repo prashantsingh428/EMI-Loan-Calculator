@@ -854,8 +854,8 @@ function App() {
               <ul>
                 <li style={{ fontSize: '0.8rem', color: '#a3b8cc', lineHeight: '1.5' }}>
                   Give A Missed Call
-                  <a href="tel:+919289200017" style={{ display: 'block', fontSize: '1.05rem', color: '#ffffff', fontWeight: '700', marginTop: '0.4rem', textDecoration: 'none' }}>
-                    📞 +91-9289200017
+                  <a href="tel:+916387421XXX" style={{ display: 'block', fontSize: '1.05rem', color: '#ffffff', fontWeight: '700', marginTop: '0.4rem', textDecoration: 'none' }}>
+                    📞 +91-6387421XXX
                   </a>
                 </li>
               </ul>
@@ -941,7 +941,7 @@ function App() {
           <div className="promo-text-group">
             <div className="promo-emi-tag">EMI starting from <strong>₹ 716/* - per lakh</strong></div>
             <div className="promo-phone-tag">
-              <span className="promo-phone-num">+91 9289200017</span>
+              <span className="promo-phone-num">+91 6387421XXX</span>
               <span className="promo-phone-lbl">For New Home Loan</span>
             </div>
           </div>
