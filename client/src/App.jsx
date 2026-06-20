@@ -343,7 +343,7 @@ function App() {
       {/* 1. Digital Heroes Top Thin Contact Line */}
       <div className="dh-top-bar" aria-label="Support contacts">
         <div className="top-bar-left">
-          <span>📞 +91 9289200017 - For New Home Loans</span>
+          <span>📞 +91 6387421XXX- For New Home Loans</span>
           <span>💬 Get an instant call back</span>
         </div>
         <div className="top-bar-right">
@@ -454,14 +454,14 @@ function App() {
             <div className="info-card intro-card">
               <h2>Home Loan EMI Calculator</h2>
               <p>
-                Digital Heroes's home loan calculator helps you calculate your Home Loan EMI with ease. 
-                Our EMI calculator for a home loan can help you make an informed decision about buying a new house. 
-                The EMI calculator is useful in planning your cashflows for servicing your home loan. 
-                Digital Heroes offers home loans with EMIs starting from <strong>₹716 per lac</strong> and interest rates 
-                starting from <strong>7.75%* p.a.</strong> with additional features such as flexible repayment options and 
-                top-up loans. With a low-interest rate and long repayment tenure, Digital Heroes ensures a comfortable 
-                home loan EMI for you. With our reasonable EMIs, Digital Heroes Home Loan is lighter on your pocket. 
-                Calculate the EMI that you will be required to pay for your home loan with our easy-to-understand 
+                Digital Heroes's home loan calculator helps you calculate your Home Loan EMI with ease.
+                Our EMI calculator for a home loan can help you make an informed decision about buying a new house.
+                The EMI calculator is useful in planning your cashflows for servicing your home loan.
+                Digital Heroes offers home loans with EMIs starting from <strong>₹716 per lac</strong> and interest rates
+                starting from <strong>7.75%* p.a.</strong> with additional features such as flexible repayment options and
+                top-up loans. With a low-interest rate and long repayment tenure, Digital Heroes ensures a comfortable
+                home loan EMI for you. With our reasonable EMIs, Digital Heroes Home Loan is lighter on your pocket.
+                Calculate the EMI that you will be required to pay for your home loan with our easy-to-understand
                 home loan EMI calculator.
               </p>
             </div>
@@ -471,7 +471,7 @@ function App() {
               <div className="info-card">
                 <h3>What is a Home Loan EMI Calculator?</h3>
                 <p>
-                  Home Loan EMI Calculator assists in calculation of the loan installment i.e. EMI towards your home loan. 
+                  Home Loan EMI Calculator assists in calculation of the loan installment i.e. EMI towards your home loan.
                   It is an easy-to-use calculator and acts as a financial planning tool for a home buyer.
                 </p>
               </div>
@@ -479,8 +479,8 @@ function App() {
               <div className="info-card">
                 <h3>What is Home Loan EMI?</h3>
                 <p>
-                  EMI stands for Equated Monthly Installment. It includes repayment of the principal amount and payment of 
-                  the interest on the outstanding amount of your home loan. A longer loan tenure (for a maximum period of 30 years) 
+                  EMI stands for Equated Monthly Installment. It includes repayment of the principal amount and payment of
+                  the interest on the outstanding amount of your home loan. A longer loan tenure (for a maximum period of 30 years)
                   helps in reducing the EMI.
                 </p>
               </div>
@@ -499,7 +499,7 @@ function App() {
                 <div><strong>R</strong> = Monthly interest rate (Annual Rate / 12 / 100)</div>
               </div>
               <div className="formula-example">
-                <strong>For example:</strong> If a person avails a loan of <strong>₹10,00,000</strong> at an annual interest 
+                <strong>For example:</strong> If a person avails a loan of <strong>₹10,00,000</strong> at an annual interest
                 rate of <strong>7.2%</strong> for a tenure of <strong>120 months (10 years)</strong>, then their EMI will be calculated as:
                 <div style={{ marginTop: '0.4rem', fontFamily: 'monospace', fontWeight: 'bold' }}>
                   r = 7.2 / 12 / 100 = 0.006
@@ -508,7 +508,7 @@ function App() {
                   EMI = ₹10,00,000 * 0.006 * (1 + 0.006)^120 / ((1 + 0.006)^120 - 1) = ₹11,714
                 </div>
                 <div style={{ marginTop: '0.4rem' }}>
-                  The total amount payable will be <strong>₹11,714 * 120 = ₹14,05,703</strong>. The principal loan amount is 
+                  The total amount payable will be <strong>₹11,714 * 120 = ₹14,05,703</strong>. The principal loan amount is
                   <strong>₹10,00,000</strong> and the interest amount will be <strong>₹4,05,703</strong>.
                 </div>
               </div>
@@ -521,10 +521,10 @@ function App() {
             <div className="info-card">
               <h3>How does EMI calculation help in planning the home purchase?</h3>
               <p>
-                Digital Heroes’s Home Loan EMI calculator gives a clear understanding of the amount that needs to be paid 
-                towards the EMIs and helps make an informed decision about the outflow towards the housing loan every month. 
-                This helps estimate the loan amount that can be availed and helps in assessing own contribution requirements 
-                and the cost of the property. Therefore, knowing the EMI is crucial for calculation of home loan eligibility 
+                Digital Heroes’s Home Loan EMI calculator gives a clear understanding of the amount that needs to be paid
+                towards the EMIs and helps make an informed decision about the outflow towards the housing loan every month.
+                This helps estimate the loan amount that can be availed and helps in assessing own contribution requirements
+                and the cost of the property. Therefore, knowing the EMI is crucial for calculation of home loan eligibility
                 and planning your home buying journey better.
               </p>
             </div>
@@ -542,10 +542,10 @@ function App() {
                 <li>Special arrangement with AGIF for Home Loans for those employed in the Indian Army.</li>
               </ul>
               <p style={{ marginTop: '1rem', fontStyle: 'italic', fontSize: '0.85rem', color: 'var(--text-muted)' }}>
-                Our tailor-made home loans cater to customers of all age groups and employment categories. We provide longer 
-                tenure loans of up to 30 years, telescopic repayment options, under adjustable rate options that specifically 
-                caters to younger customers to become home owners at an early stage of their life. With our experience of 
-                providing home finance for over 4 decades, we are able to understand the diverse needs of our customers 
+                Our tailor-made home loans cater to customers of all age groups and employment categories. We provide longer
+                tenure loans of up to 30 years, telescopic repayment options, under adjustable rate options that specifically
+                caters to younger customers to become home owners at an early stage of their life. With our experience of
+                providing home finance for over 4 decades, we are able to understand the diverse needs of our customers
                 and fulfill their dream of owning a home.
               </p>
             </div>
@@ -570,10 +570,10 @@ function App() {
             <div className="info-card">
               <h3>What is Home Loan Amortization Schedule?</h3>
               <p>
-                Loan amortization is the process of reducing the debt with regular payments over the loan period. 
+                Loan amortization is the process of reducing the debt with regular payments over the loan period.
                 A home loan amortization schedule is a table giving the details of the repayment amount, principal, and interest component.
-                Digital Heroes’s EMI calculators give a fair understanding about the ratio of the principal amount to the interest due, 
-                based on the loan tenure and interest rates. The calculator also provides an amortization table elucidating the 
+                Digital Heroes’s EMI calculators give a fair understanding about the ratio of the principal amount to the interest due,
+                based on the loan tenure and interest rates. The calculator also provides an amortization table elucidating the
                 repayment schedule. Digital Heroes’s home loan calculator provides a complete break-up of the interest and principal amount.
               </p>
             </div>
@@ -588,8 +588,8 @@ function App() {
                 <div className="scheme-item">
                   <h4>Step Up Repayment Facility (SURF)</h4>
                   <p>
-                    SURF offers an option where the repayment schedule is linked to the expected growth in your income. 
-                    You can avail a higher amount of loan and pay lower EMIs in the initial years. Subsequently, the repayment 
+                    SURF offers an option where the repayment schedule is linked to the expected growth in your income.
+                    You can avail a higher amount of loan and pay lower EMIs in the initial years. Subsequently, the repayment
                     is accelerated proportionately with the assumed increase in your income.
                   </p>
                 </div>
@@ -597,8 +597,8 @@ function App() {
                 <div className="scheme-item">
                   <h4>Flexible Loan Installments Plan (FLIP)</h4>
                   <p>
-                    FLIP offers a customized solution to suit your repayment capacity which is likely to alter during the 
-                    term of the loan. The loan is structured in such a way that the EMI is higher during the initial years and 
+                    FLIP offers a customized solution to suit your repayment capacity which is likely to alter during the
+                    term of the loan. The loan is structured in such a way that the EMI is higher during the initial years and
                     subsequently decreases in proportion to the income.
                   </p>
                 </div>
@@ -606,8 +606,8 @@ function App() {
                 <div className="scheme-item">
                   <h4>Tranche Based EMI</h4>
                   <p>
-                    If you purchase an under-construction property, you are generally required to service only the interest on the 
-                    loan amount drawn till final disbursement. In case you wish to start principal repayment immediately, 
+                    If you purchase an under-construction property, you are generally required to service only the interest on the
+                    loan amount drawn till final disbursement. In case you wish to start principal repayment immediately,
                     you may opt to tranche the loan and start paying EMIs on the cumulative amounts disbursed.
                   </p>
                 </div>
@@ -615,7 +615,7 @@ function App() {
                 <div className="scheme-item">
                   <h4>Accelerated Repayment Scheme</h4>
                   <p>
-                    This option provides you the flexibility to increase the EMIs every year in proportion to the increase in your 
+                    This option provides you the flexibility to increase the EMIs every year in proportion to the increase in your
                     income, which will result in you repaying the loan much faster.
                   </p>
                 </div>
@@ -623,7 +623,7 @@ function App() {
                 <div className="scheme-item">
                   <h4>Telescopic Repayment Option</h4>
                   <p>
-                    With this option you get a longer repayment tenure of up to 30 years. This means an enhanced loan amount 
+                    With this option you get a longer repayment tenure of up to 30 years. This means an enhanced loan amount
                     eligibility and smaller EMIs.
                   </p>
                 </div>
@@ -948,10 +948,10 @@ function App() {
           <div className="promo-btn-group">
             <a href="#apply" className="btn-promo-apply">Apply Online</a>
             <button type="button" className="btn-promo-callback">Instant Call Back</button>
-            <button 
-              type="button" 
-              className="btn-promo-close" 
-              onClick={() => setShowPromo(false)} 
+            <button
+              type="button"
+              className="btn-promo-close"
+              onClick={() => setShowPromo(false)}
               aria-label="Close promo bar"
             >
               &times;
